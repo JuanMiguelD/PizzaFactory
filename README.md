@@ -13,6 +13,7 @@ Se agregó la clase Main para realizar pruebas del funcionamiento, si se quiere 
 Se crearon interfaces y uso de clases con algunos métodos abstractos para respetar el requisito de no duplicar código. Todo el material de esta parte se encuentra en la carpeta DYAS-GoF-CreationalPatterns-GameRefactoring
 
 
+#Diagramas UML
 ![UML PizzaFactory](https://github.com/user-attachments/assets/6d4278f7-ebdb-407c-8bbb-a371f7533ccf)
 
 
